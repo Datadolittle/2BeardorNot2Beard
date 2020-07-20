@@ -1,6 +1,6 @@
 # 2BeardorNot2Beard
 
-<img src="https://github.com/Datadolittle/2BeardorNot2Beard/images/performance.jpg" height="550" width="700">
+<img src="https://github.com/Datadolittle/2BeardorNot2Beard/blob/master/images/performance.jpg" height="550" width="700">
 
 To install the required packages:
 ``` pip install opencv-python ```
